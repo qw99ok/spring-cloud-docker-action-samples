@@ -1,1 +1,1 @@
-# spring-cloud-docker-action-samples
+# spring-cloud-docker-in-action-samples
